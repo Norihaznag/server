@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_shared_sizes",
+  "info": {
+    "displayName": "size",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "names": {
+      "type": "enumeration",
+      "enum": [
+        "Small",
+        "Medium",
+        "Large"
+      ]
+    }
+  }
+}
